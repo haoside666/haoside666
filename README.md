@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunjin Zhong ⏱️</h1>
 
 <h3 align="center">A passionate developer</h3>
-<h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
+<h2 align="center"><em>🌟 You never lose, either you win or you learn! 💪<em></h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=haoside666&theme=dracula&show_icons=true" alt="maemreyo" width="380" height="152" />
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=haoside666&theme=dracula&hide_border=false" alt="maemreyo" width="380" height="152"/>
@@ -11,7 +11,7 @@
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haoside666" alt="haoside666" /></a> 
 </p>
 
-<strong>Check out my work below!</strong> Time I contributed this year: 🎉<a href="https://wakatime.com/@ded86e62-db87-44ac-94f7-f804c1538f1e" title="项目的进展时长" > <img src="https://wakatime.com/badge/user/f5425be6-fe4f-4927-a52f-f92ac8b699c7/project/ded86e62-db87-44ac-94f7-f804c1538f1e.svg"></a> 🎉
+<strong>Check out my work below!</strong>Time I contributed this year: 🎉<img src="https://img.shields.io/badge/wakatime-2178hrs_30mins-blue?logo=wakatime&color=blue">🎉
 
 #### 🔭 Check out what I'm currently working on Container security
 - none - 👀 
@@ -30,7 +30,7 @@
 
 #### 🚧 My Todoist Stats: ⬇️👀
 <details><summary><b>💡 more （about github❗）</b></summary>
-</hr>
+<hr></hr>
 ### 🔮 Platform & Tools
 
 [![](https://img.shields.io/badge/mac%20os-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
